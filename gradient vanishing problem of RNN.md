@@ -123,7 +123,7 @@ These basic identities will be enough for us to compute the gradients for RNN an
 
 As we mentioned before, the main difference between RNN and traditional neural networks is that each time the previous output will be brought to the next hidden layer and trained together.
 
-![](C:\Users\lenovo\Desktop\YingFu.github.io\img\RNN.jpg)
+![](https://github.com/blankandwhite1/YingFu.github.io/blob/master/img/RNN.jpg?raw=true)
 <center>Image Source: CS224n, Stanford</center>
 The hidden vector and the output is computed as such:
 $$
@@ -197,7 +197,7 @@ As we can see above, the consequence of gradient vanishing is that the weights a
 
 Long Short-Term Memory, a type of RNN, is proposed by Hochreiter and Schmidhuber in 1997 as a solution to the vanishing gradients problem. The paper is here: [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
-![1581651699866](C:\Users\lenovo\Desktop\YingFu.github.io\img\LSTM.jpg)
+![1581651699866](https://github.com/blankandwhite1/YingFu.github.io/blob/master/img/LSTM.jpg?raw=true)
 
 <center>Image Source:http://colah.github.io/posts/2015-08-Understanding-LSTMs/</center>
 We have a sequence of input $\mathbf{x}_{t}$, and we will compute a sequence of hidden states $\mathbf{h}_{t}$ and cell states $\mathbf{c}_{t}$, both are vectors of length $n$.  
