@@ -1,0 +1,1 @@
+This is a personal website of YingFu, In my previous study, I understand quickly but forget quickly. There is still a long way to understand and make others understand. Teaching is the best learning, that's why I insist on writing the blogs.
