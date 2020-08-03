@@ -35,19 +35,21 @@
 							<header class="major">
 								<h2>Notes</h2>
 							</header>
-							<a href="How LSTM solves the vanishing gradient problem of RNN.html">How LSTM solves the vanishing problem of RNN</a><br/>
-                            <!-- Embed PDF File -->
-                            <object data="Dimensionality Reduction (I).pdf" type="application/x-pdf" title="Dimensionality Reduction (I)" width="500" height="720">
-                                <a href="Dimensionality Reduction (I).pdf">Dimensionality Reduction (I).pdf</a> 
-                            </object><br/>
-                            <object data="Dimensionality Reduction (II).pdf" type="application/x-pdf" title="Dimensionality Reduction (II)" width="500" height="720">
-                                <a href="Dimensionality Reduction (II).pdf">Dimensionality Reduction (II).pdf</a> 
-                            </object><br/>
-                            <a href="Evaluate classifiers correctly .html">Evaluate classifiers correctly</a><br/>
-                            
-                            
-
-
+							<h3><b>LSTM</b></h3>
+							<a href="How LSTM solves the vanishing gradient problem of RNN.html">How LSTM solves the vanishing problem of RNN</a><br/><br/>
+              <h3><b>Dimensionality Reduction</b></h3>
+              <!-- Embed PDF File -->
+              <object data="Dimensionality Reduction (I).pdf" type="application/x-pdf" title="Dimensionality Reduction (I)" width="500" height="720">
+              <a href="Dimensionality Reduction (I).pdf">Dimensionality Reduction (I).pdf</a> 
+              </object><br/>
+              <object data="Dimensionality Reduction (II).pdf" type="application/x-pdf" title="Dimensionality Reduction (II)" width="500" height="720">
+              <a href="Dimensionality Reduction (II).pdf">Dimensionality Reduction (II).pdf</a> 
+              </object><br/>
+              <h3><b>Classification</b></h3>
+              <a href="Evaluate classifiers correctly .html">Evaluate classifiers correctly</a><br/><br/>
+     					<h3><b>SVM</b></h3>
+              <a href="What are support vectors.html">What are support vectors in SVM</a><br/><br/>
+              
 						</div>
 					</div>
 				</div>
