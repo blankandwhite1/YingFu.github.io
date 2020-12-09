@@ -49,8 +49,13 @@
               <h3><b>Classification</b></h3>
               <a href="Evaluate classifiers correctly .html">Evaluate classifiers correctly</a><br/><br/>
      					<h3><b>SVM</b></h3>
-              <a href="What are support vectors.html">What are support vectors in SVM</a><br/><br/>
+              <a href="What are support vectors.html">What are support vectors in SVM</a><br/>
               <a href="A_bug_in_libsvm_to_identify_SVs.html">A bug in libsvm to identify SVs</a><br/><br/>
+              
+              <h3><b>Explainable Machine Learning</b></h3>
+              <object data="LIME-Explaniable ML.pdf" type="application/x-pdf" title="LIME-Explaniable ML" width="500" height="720">
+              <a href="LIME-Explaniable ML.pdf">Dimensionality Reduction (II).pdf</a> 
+              </object><br/><br/>
               
 						</div>
 					</div>
@@ -61,17 +66,15 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<section>
-							<h2>About</h2>
-							<p>In my previous study, I understand quickly but forget quickly. There is still a long way to understand and make others understand. Teaching is the best learning, that's why I insist on writing the blogs.  </p>
-							
-						</section>
+
 						<section>
 							<h2>Contact:</h2>
 							<dl class="alt">
 							
 								<dt>Email</dt>
 								<dd>dhlsfy@163.com</dd>
+								<dt>Address</dt>
+								<dd>School of Bussiness Administration, South China University of Technology, Guangzhou</dd>
 								
 								
 							</dl>
